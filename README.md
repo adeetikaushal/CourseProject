@@ -1,3 +1,9 @@
-# CourseProject
+Project Code:    https://github.com/adeetikaushal/CourseProject/tree/main/code
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Project Report: https://github.com/adeetikaushal/CourseProject/blob/main/CS410_TIS_Final_Project.pdf 
+
+Project Process Report: https://github.com/adeetikaushal/CourseProject/blob/main/CS410_TIS_Final_Project_Process.pdf
+
+Video : https://mediaspace.illinois.edu/media/1_xoppbs4i
+
+
