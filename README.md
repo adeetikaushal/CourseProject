@@ -5,5 +5,3 @@ Project Report: https://github.com/adeetikaushal/CourseProject/blob/main/CS410_T
 Project Process Report: https://github.com/adeetikaushal/CourseProject/blob/main/CS410_Voltron_Process_Report.pdf
 
 Video : https://mediaspace.illinois.edu/media/1_xoppbs4i
-
-
