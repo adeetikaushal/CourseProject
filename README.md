@@ -1,3 +1,7 @@
-# CourseProject
+Project Code:    https://github.com/adeetikaushal/CourseProject/tree/main/code
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Project Report: https://github.com/vivekb3Illinois/CourseProject/blob/main/CS410_Voltron_Final_Project_Report.pdf
+
+Project Progress Report: https://github.com/vivekb3Illinois/CourseProject/blob/main/CS410_Voltron_Process_Report.pdf
+
+Video : https://mediaspace.illinois.edu/media/1_xoppbs4i
